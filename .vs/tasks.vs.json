@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-NodeBB",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-package",
+      "appliesTo": "install/package.json",
+      "type": "launch"
+    }
+  ]
+}
